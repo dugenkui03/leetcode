@@ -1,2 +1,2 @@
 
-[my profile](https://leetcode.com/dugenkui/)
+#### 详情见wiki
